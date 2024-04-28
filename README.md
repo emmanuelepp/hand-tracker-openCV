@@ -16,6 +16,7 @@ This project implements a hand tracking system using the OpenCV library in Pytho
 ## Installation
 1. Clone or download this repository.
 2. Install the dependencies using pip:
+   
    ```bash
     pip install opencv-python numpy scikit-learn
    ```
