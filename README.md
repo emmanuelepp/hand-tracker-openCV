@@ -2,7 +2,7 @@
 
 This project implements a hand tracking system using the OpenCV library in Python. The system is capable of detecting and counting the fingers of a hand in front of a camera in real-time.
 
-![alt text](image.png)
+![alt text](image-3.png)
 
 ![alt text](image-1.png)
 
