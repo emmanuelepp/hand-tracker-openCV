@@ -1,6 +1,6 @@
 # Hand Tracker OpenCV
 
-This project implements a hand tracking system using the OpenCV library in Python. The system is capable of detecting and counting the fingers of a hand in front of a camera in real-time.
+A computer vision project built in Python with OpenCV that performs real-time hand tracking through a webcam, detecting the hand and counting extended fingers frame by frame.
 
 <p align="center">
   <img src="image-3.png" alt="Image 3" width="31.5%">
