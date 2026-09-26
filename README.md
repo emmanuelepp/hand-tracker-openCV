@@ -114,10 +114,6 @@ ruff check .    # lint
 ruff format .   # format
 ```
 
-## Contributing
-
-Contributions are welcome. Fork the repository, create a branch for your change, and open a pull request describing what it does and how you tested it.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
