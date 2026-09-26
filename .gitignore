@@ -163,6 +163,7 @@ cython_debug/
 .ruff_cache/
 
 # Editors & OS
+.vscode/
 .idea/
 *.swp
 .DS_Store
